@@ -133,7 +133,6 @@
 				}
 			},
 			"list": {
-				"fontFamily": "var(--wp--custom--font-family--base)",
 				"padding": {
 					"left": "calc( 2 * var(--wp--custom--margin--horizontal) )"
 				}
@@ -309,6 +308,9 @@
 					"fontWeight": "var(--wp--custom--heading--typography--font-weight)",
 					"lineHeight": "var(--wp--custom--heading--typography--line-height)"
 				}
+			},
+			"core/list": {
+				"fontFamily": "var(--wp--custom--font-family--base)"
 			},
 			"core/navigation": {
 				"typography": {
